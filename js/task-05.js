@@ -8,5 +8,4 @@ inputText.addEventListener('input', () => {
     } else {
         outputText.textContent = inputText.value;
     }
-        
-})
+});
